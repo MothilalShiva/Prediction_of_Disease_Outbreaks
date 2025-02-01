@@ -55,16 +55,6 @@ Prediction_of_Disease_Outbreaks/
 ## Screenshots 📸
 ![Screenshot](https://github.com/MothilalShiva/Prediction_of_Disease_Outbreaks/blob/main/predict.png)
 
-## Future Enhancements 🔮
-- Add more disease predictions
-- Improve UI with enhanced design
-- Deploy on cloud platforms
-
-## Contributing 🤝
-Pull requests are welcome! Feel free to submit any issues or suggestions.
-
-## License 📜
-This project is **open-source** and available under the **MIT License**.
 
 ---
 Developed with ❤️ by **Mothilal Shiva**
